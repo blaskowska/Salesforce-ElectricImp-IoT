@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>deviceId__c</fullName>
+    <description>DeviceId refers to the Electric Imp device.</description>
+    <externalId>true</externalId>
+    <inlineHelpText>DeviceId refers to the Electric Imp device id.</inlineHelpText>
+    <label>DeviceId</label>
+    <length>16</length>
+    <required>true</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
