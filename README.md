@@ -1,18 +1,15 @@
-# Salesforce DX Project: Next Steps
+# Salesforce IoT Project
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+Why not to try to integrate IoT with Salesforce? So, let's try! You can find here Salesforce design used in the integration of ElectricImp IoT device with Salesforce. We used platform event-triggered flow, connected app and custom object to store readings values.
 
-## How Do You Plan to Deploy Your Changes?
+The result of the project was presented by Barbara Laskowska and Manuel Moya during the Salesforce Community Event DreamOle 2023.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+## DreamOle 23' presentation
 
-## Configure Your Salesforce DX Project
+Link coming soon :)
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+## Resources used to implement the integration
 
-## Read All About It
+- [ElectricImp repository](https://github.com/electricimp/Salesforce/tree/master/examples/Old_Examples/SmartRefrigerator)
+- [The device being used](https://store.electricimp.com/products/impexplorer-developer-kit?variant=32325242585148)
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
